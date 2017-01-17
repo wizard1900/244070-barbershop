@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Igor Suchkov](https://up.htmlacademy.ru/htmlcss/16/user/244070).
-
+* Наставник: [Иван Жадаев](https://up.htmlacademy.ru/htmlcss/16/user/58078).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
